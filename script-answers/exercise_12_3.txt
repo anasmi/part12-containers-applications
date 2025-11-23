@@ -1,0 +1,2 @@
+nano /usr/src/app/index.js
+# Ctrl^0 + Ctrl^X
